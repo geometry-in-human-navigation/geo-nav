@@ -1,0 +1,5 @@
+.DS_Store
+1-experiment/b-psychopy/spatial_psychopy
+startup/processed_data/rgb_decoding_and_groundtruth_depth.mat
+startup/processed_data/vit_1409_dims_semgeo_shared_glm_list_optimal_hard_threshold.mat
+startup/processed_data/paired_gt_rgb_decoding_and_depth.mat
